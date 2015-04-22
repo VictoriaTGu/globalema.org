@@ -25,10 +25,13 @@ p {
     line-height: 1.75;
 }
 
-p.large {
-    font-size: 20px;
+p.justify {
     text-align: justify;
     text-justify: inter-word;
+}
+
+p.large {
+    font-size: 20px;
 }
 
 a,
